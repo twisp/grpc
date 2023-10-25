@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go v1.45.6
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/stretchr/testify v1.8.1
-	google.golang.org/grpc v1.58.0
+	google.golang.org/grpc v1.58.3
 )
 
 require (
